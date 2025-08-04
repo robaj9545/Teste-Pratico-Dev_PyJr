@@ -84,7 +84,7 @@ docker-compose up --build
 
 3. **Acesse a aplicação**:
 - Frontend: http://localhost:3000
-- Backend API: http://localhost:8000
+- API: http://localhost:8000/api/docs/
 - Admin Django: http://localhost:8000/admin
 
 ### Configuração Manual
