@@ -147,7 +147,7 @@ python manage.py runserver
 SECRET_KEY=sua-chave-secreta-aqui
 DEBUG=False
 ALLOWED_HOSTS=seudominio.com
-DB_NAME=todoapp_prod
+DB_NAME=taskmanager_prod
 DB_USER=seu_usuario
 DB_PASSWORD=sua_senha_segura
 DB_HOST=seu_host_db
